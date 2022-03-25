@@ -1,0 +1,87 @@
+@import url('https://fonts.googleapis.com/css2?family=Inconsolata&family=Space+Mono:ital,wght@0,400;1,700&display=swap');
+
+body{
+    background-color: #fff;
+    box-shadow: rgba(0, 0, 0, 0.1);
+    border-radius: 8px;
+    position: relative;
+}
+
+h1{
+    font-family: 'Inconsolata', monospace;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 30px;
+    line-height: 25px;
+    letter-spacing: -0.08em;
+    text-transform: uppercase;
+    color: #333;
+    position: absolute;
+    width: 250px;
+    height: 25px;
+    left: 77px;
+    top: 40px;
+}
+
+.Scarecrow{
+    width: 650px;
+    height: 450px;
+    top: 165px;
+    left: 44px;
+    position: absolute;
+}
+
+h3{
+    font-family: 'Space Mono', monospace;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 64px;
+    line-height: 95px;
+    letter-spacing: -0.035em;
+    color: #333;
+    position: absolute;
+    width: 586px;
+    height: 190px;
+    left: 730px;
+    top: 150px;
+}
+
+p{
+    font-family: 'Space Mono', monospace;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 36px;
+    letter-spacing: -0.035em;
+    color: #4f4f4f;
+    position: absolute;
+    width: 381px;
+    height: 108px;
+    left: 736px;
+    top: 391px;
+}
+
+button{
+    position: absolute;
+    width: 236px;
+    height: 68px;
+    left: 740px;
+    top: 563px;
+    background: #333;
+    text-transform: uppercase;
+    color: #fff;
+    border-radius: 3px;
+}
+
+span{
+    font-family: 'Montserrat';
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 17px;
+    text-align: center;
+    color: #bdbdbd;
+    position: absolute;
+    width: 287px;
+    height: 17px;
+    left: 577px;
+    top: 680px;
+}
